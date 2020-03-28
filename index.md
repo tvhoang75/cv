@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/tvhoang75/van-hoang.tran.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My CV 
 
 ### Markdown
 
@@ -23,10 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](http://vnexpress.vn) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Example CV](cv.html).
 
 ### Jekyll Themes
 
