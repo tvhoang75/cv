@@ -1,0 +1,116 @@
+body {
+	margin: 0;
+}
+
+.nav_left {
+	height: 100%;
+	width: 160px;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	overflow-x: hidden;
+	padding-top: 20px;
+	overflow: hidden;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background-color: #f1f1f1;
+	height: 100%;
+	overflow: auto;
+}
+
+li a {
+	display: block;
+	color: #000;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+
+li a.active {
+	background-color: #555;
+	color: white;
+}
+
+li a:hover:not(.active) {
+	background-color: #555;
+	color: white;
+}
+
+.nav_left {
+	background-color: #f1f1f1;
+	position: fixed;
+	width: 240px;
+	align-content: center;
+
+}
+
+.nav_left img {
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.nav_left h3 {
+	text-align: center;
+
+}
+
+.network {
+	align-content: center;
+	position: fixed;
+	z-index: 1;
+	bottom: 15px;
+	left: 35px;
+}
+
+.content {
+	margin-left: 25%;
+	padding: 1px 16px;
+	height: 1000px;
+}
+
+section {
+	background-color: #f1f1f1;
+	padding: 5px 10px;
+	margin: 10px 10px 20px 0px;
+}
+
+
+section a {
+	text-decoration: none;
+	font-style: oblique;
+}
+
+section a:hover:not(.active) {
+	background-color: #555;
+	color: white;
+	padding: 5px;
+	border-radius: 4px;
+}
+
+.conf {
+	background-color: cadetblue;
+	padding: 5px;
+	border-radius: 3px;
+}
+
+.journal {
+	background-color: darkslateblue;
+	padding: 5px;
+	border-radius: 3px;
+}
+
+span {
+	background-color: #555;
+	color: white;
+	padding: 2px 3px;
+	margin: 20px 10px 20px 0px;
+	border-radius: 4px;
+}
